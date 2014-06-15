@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="alarm_set">
+        <item>Automatyczne włączenie nastąpi za mniej niż minutę.</item>
+        <item>Automatyczne włączenie nastąpi za %1$s od teraz.</item>
+        <item>Automatyczne włączenie nastąpi za %2$s od teraz.</item>
+        <item>Automatyczne włączenie nastąpi za %1$s i %2$s od teraz.</item>
+        <item>Automatyczne włączenie nastąpi za %3$s od teraz.</item>
+        <item>Automatyczne włączenie nastąpi za %1$s i %3$s od teraz.</item>
+        <item>Automatyczne włączenie nastąpi za %2$s i %3$s od teraz.</item>
+        <item>Automatyczne włączenie nastąpi za %1$s, %2$s, i %3$s od teraz.</item>
+        <item>Automatyczne wyłączenie nastąpi za mniej niż minutę.</item>
+        <item>Automatyczne wyłączenie nastąpi za %1$s od teraz.</item>
+        <item>Automatyczne wyłączenie nastąpi za %2$s od teraz.</item>
+        <item>Automatyczne wyłączenie nastąpi za %1$s i %2$s od teraz.</item>
+        <item>Automatyczne wyłączenie nastąpi za %3$s od teraz.</item>
+        <item>Automatyczne wyłączenie nastąpi za %1$s i %3$s od teraz.</item>
+        <item>Automatyczne wyłączenie nastąpi za %2$s i %3$s od teraz.</item>
+        <item>Automatyczne wyłączenie nastąpi za %1$s, %2$s, i %3$s od teraz.</item>
+    </string-array>
+</resources>

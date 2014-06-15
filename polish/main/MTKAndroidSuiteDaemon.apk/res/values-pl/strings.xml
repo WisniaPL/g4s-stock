@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Daemon MTK Android Suite</string>
+    <string name="noti_main_service_started">Uruchomiono daemona MTK Android Suite.</string>
+    <string name="noti_main_service_running">Daemon MTK Android Suite jest uruchomiony.</string>
+    <string name="noti_main_service_stopped">Zatrzymano daemona MTK Android Suite.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Zestaw narzędzi SIM</string>
+    <string name="activity_not_found">Aplikacja nie jest zainstalowana w telefonie.</string>
+    <string name="simlock_toolkit">Zestaw narzędzi SIM</string>
+</resources>

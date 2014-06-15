@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Menadżer Termalny MTK</string>
+    <string name="coolers">Chłodzenie</string>
+    <string name="thermal_sensors">Sensory Termalne</string>
+    <string name="thermal_protection">Ochrona Termalna</string>
+    <string name="thermal_policy_file_colon">"Plik Polityki Termalnej: "</string>
+    <string name="apply_new_thermal_policy">Zastosuj Nową Politykę Termalną</string>
+    <string name="tz_device_info">Informacje o Urządzeniu TZ</string>
+    <string name="thermal_logger">Raport Termalny</string>
+    <string name="alert_dialog_two_buttons_title">Ostrzeżenie Termalne!</string>
+    <string name="alert_dialog_two_buttons_message">Temperatura telefonu musi być wkrótce obniżona!</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Anuluj</string>
+</resources>

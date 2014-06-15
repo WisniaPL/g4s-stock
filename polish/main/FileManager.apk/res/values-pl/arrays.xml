@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="sort_by">
+        <item>Typ</item>
+        <item>Nazwa (a–z)</item>
+        <item>Wielkość (duży–mały)</item>
+        <item>Czas (nowy–stary)</item>
+    </string-array>
+</resources>

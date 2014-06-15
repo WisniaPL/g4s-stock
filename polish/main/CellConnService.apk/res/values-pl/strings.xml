@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="confirm_radio_title">Karta SIM wyłączona</string>
+    <string name="confirm_radio_msg">Sieć %1$s jest teraz wyłączona. Czy chcesz włączyć tę kartę SIM?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">Tryb samolotowy jest włączony i</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s jest wyłączona. Chcesz wyłączyć tryb samolotowy i włączyć tę kartę SIM?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">Tryb samolotowy jest włączony. Chcesz wyłączyć tryb samolotowy?</string>
+    <string name="confirm_radio_msg_single">Tryb offline jest teraz włączony. Chcesz go wyłączyć?</string>
+    <string name="confirm_pin_title">Zablokowana karta SIM</string>
+    <string name="confirm_pin_msg">Wybrana karta SIM jest zablokowana. Odblokuj ją.</string>
+    <string name="confirm_simmelock_msg">Wybrane gniazdo karty SIM jest zablokowane. Odblokuj je.</string>
+    <string name="confirm_fdn_title">Usługa FDN włączona</string>
+    <string name="confirm_fdn_msg">Włączono tryb ustalonych numerów.</string>
+    <string name="confirm_roaming_title">Ostrzeżenie dotyczące roamingu</string>
+    <string name="confirm_roaming_msg">Karta SIM, której chcesz użyć, pracuje w trybie roamingu. Nie ma dostępnej lokalnej karty SIM. Czy chcesz Kontynuować?</string>
+    <string name="confirm_roaming_withPrefer_msg">Karta SIM, której chcesz użyć, pracuje w trybie roamingu. Czy chcesz kontynuować przez lokalną kartę SIM?</string>
+    <string name="confirm_roaming_lbutton">Kontynuuj</string>
+    <string name="confirm_roaming_rbutton">Anuluj</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Lokalna karta SIM</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Karta SIM w roamingu</string>
+    <string name="confirm_radio_lbutton">Włącz</string>
+    <string name="confirm_unlock_lbutton">Odblokuj</string>
+    <string name="confirm_unlock_fail">Operacja anulowana</string>
+    <string name="confirm_turnon_radio_fail">Operacja anulowana</string>
+    <string name="confirm_permit_roaming_fail">Anulowano to działanie na karcie SIM pracującej w roamingu</string>
+    <string name="confirm_sim_locked_message">Karta została trwale zablokowana</string>
+    <string name="confirm_slot_locked_message">Gniazdo zostało trwale zablokowane</string>
+    <string name="confirm_disable_lbutton">Wyłącz</string>
+    <string name="confrim_simmelock_title">Blokada SIM ME</string>
+</resources>

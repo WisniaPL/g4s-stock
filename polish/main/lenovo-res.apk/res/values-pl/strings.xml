@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dlg_use_ipo_confirm">Szybkie bootowanie przy następnym włączeniu</string>
+    <string name="storage_sd_card">Karta pamięci</string>
+    <string name="storage_usb">Pamięć USB</string>
+    <string name="storage_phone">Pamięć telefonu</string>
+    <string name="storage_external_usb">Zewnętrzna pamięć USB</string>
+    <string name="ext_storage_internal_notification_title">Przygotowywanie wewnętrznej pamięci</string>
+    <string name="ext_storage_external_notification_title">Przygotowywanie zewnętrznej pamięci</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Włącz tryb samolotowy.</string>
+    <string name="usb_notification_title">Ustawienia Połączenia przez USB</string>
+    <string name="usb_notification_content">Wybierz tryb montowania USB i debugowanie ADB.</string>
+</resources>

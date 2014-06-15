@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="reverb_preset_list">
+        <item>Brak</item>
+        <item>Mały pokój</item>
+        <item>Średni pokój</item>
+        <item>Duży pokój</item>
+        <item>Średni hall</item>
+        <item>Duży hall</item>
+        <item>Zwykły pogłos</item>
+    </string-array>
+</resources>

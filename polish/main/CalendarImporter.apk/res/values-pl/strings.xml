@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="import_to">Importuj do</string>
+    <string name="import_button">Importuj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="no_access_toast">Nie znaleziono żadnego konta. Proszę najpierw dodać konto</string>
+    <string name="null_name">brak</string>
+    <string name="import_message">Chcesz zaimportować # do kalendarza?</string>
+    <string name="calendar_lable">"Kalendarz: "</string>
+    <string name="date_lable">"Data: "</string>
+    <string name="import_title">Importuj wydarzenie kalendarza</string>
+    <string name="importing">Importowanie ...</string>
+    <string name="import_complete">Importowanie zakończone</string>
+    <string name="open">Otwórz</string>
+    <string name="done">Wykonan</string>
+    <string name="progresszero">0%</string>
+    <string name="progresshundred">100%</string>
+    <string name="import_vcs_failed">Nie udało się importować wydarzenia.</string>
+    <string name="title_lable">"Tytuł: "</string>
+    <string name="no_syncable_calendars">Nie można importować</string>
+    <string name="no_calendars_found">To konto nie wspiera synchronizacji kalendarza, lub ostatnia synchronizacja nie została zakończona.</string>
+    <string name="retry">Ponów próbę</string>
+    <string name="give_up">Porzuć</string>
+    <string name="open_calendar_failed">Kalendarz nie jest dostępny.</string>
+    <string name="loading">Ładowanie…</string>
+</resources>
